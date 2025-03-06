@@ -2,6 +2,16 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.0 (2025-03-06)
+### Feature
+* Initiate repository ([`c5e4ed5`](https://github.com/oscal-compass/e2e-demo-catalog/commit/c5e4ed5681910898388a054a01fca3744d261f61))
+
+### Fix
+* Create a release ([`dca6a33`](https://github.com/oscal-compass/e2e-demo-catalog/commit/dca6a332609aa5348c48abb127610797e354f5e1))
+* Adding markdown catalogs ([`8db248a`](https://github.com/oscal-compass/e2e-demo-catalog/commit/8db248a2a32351207202f16857cf2734d189d7e9))
+* Initialize tresle ([`bad97c5`](https://github.com/oscal-compass/e2e-demo-catalog/commit/bad97c546b08e31a853f226830c8c8625862a92b))
+* Add the catalog ([`1f5f9e6`](https://github.com/oscal-compass/e2e-demo-catalog/commit/1f5f9e610c928f97dcba7a16fd323e0ed4daffbd))
+
 ## v0.4.4 (2025-02-27)
 ### Fix
 * Test create release ([#13](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/issues/13)) ([`43ca2df`](https://github.com/oscal-compass/e2e-demo-cac-catalog-cis/commit/43ca2df906928fe061b99943d785ef2a745befca))
