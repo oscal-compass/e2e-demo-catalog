@@ -4,7 +4,7 @@ export COMMIT_TITLE="chore: Catalogs automatic update."
 export COMMIT_BODY="Sync catalogs with ocp-oscal-catalogs repo"
 git config --global user.email "automation@example.com"
 git config --global user.name "AutomationBot" 
-cd e2e-demo-cac-profile-cis
+cd e2e-demo-profile
 git checkout -b "catalogs_autoupdate_$GITHUB_RUN_ID"
 cp -r ../catalogs .
 if [ -z "$(git status --porcelain)" ]; then 
