@@ -1,0 +1,5 @@
+
+push-remote: https://$GITHUB_TOKEN@github.com/oscal-compass/e2e-demo-catalog
+
+update-profile-folder: e2e-demo-profile
+update-profile-remote: https://x-access-token:$GH_TOKEN@github.com/oscal-compass/e2e-demo-profile
