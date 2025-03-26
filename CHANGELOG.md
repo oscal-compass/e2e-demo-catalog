@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2025-03-26)
+### Fix
+* Test automation config ([`a26ef00`](https://github.com/oscal-compass/e2e-demo-catalog/commit/a26ef00f175575016af4fc8cf973da177aca357a))
+
 ## v0.1.0 (2025-03-06)
 ### Feature
 * Initiate repository ([`c5e4ed5`](https://github.com/oscal-compass/e2e-demo-catalog/commit/c5e4ed5681910898388a054a01fca3744d261f61))
