@@ -17,4 +17,4 @@ This repo ingests industry standard catalogs and provides a mechanism to generat
 
 Demo for this repo:
 
-- Show changes to markdown are incorporated into catloag.json
+- Show changes to markdown are incorporated into catlog.json
