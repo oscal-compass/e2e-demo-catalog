@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.2 (2025-03-28)
+### Fix
+* Fix automation scripts ([`01b357b`](https://github.com/oscal-compass/e2e-demo-catalog/commit/01b357bd6a4de5c75ae9cf7d0e9407175cd99476))
+
 ## v0.1.1 (2025-03-26)
 ### Fix
 * Test automation config ([`a26ef00`](https://github.com/oscal-compass/e2e-demo-catalog/commit/a26ef00f175575016af4fc8cf973da177aca357a))
